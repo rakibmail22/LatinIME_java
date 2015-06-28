@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/rakib/AndroidStudioProjects/LatinIME/java/app/src/main/res/values-eo/bools.xml -->
+    <eat-comment/>
+    <bool name="im_is_default">true</bool>
+</resources>

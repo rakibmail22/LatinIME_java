@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rakib\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1-9a9265afa3afd784638e0b667931c3a48a8d72e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\rakib\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\7.0.2\22ed26d3b6f4d0a28e19d4429273099965a4fee0\annotations-7.0.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="22ed26d3b6f4d0a28e19d4429273099965a4fee0">
+        <dex dex="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\build\intermediates\pre-dexed\debug\annotations-7.0.2-8dcb5a09fba68c7c3afbef8d830546891cae404c.jar" />
+    </item>
+
+</items>
