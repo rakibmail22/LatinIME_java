@@ -42,7 +42,7 @@ public class MetadataDbHelper extends SQLiteOpenHelper {
 
     // This was the initial release version of the database. It should never be
     // changed going forward.
-    private static final int METADATA_DATABASE_INITIAL_VERSION = 4; // should be changed the value into 3
+    private static final int METADATA_DATABASE_INITIAL_VERSION = 3; // already changed the value into 3
     // This is the first released version of the database that implements CLIENTID. It is
     // used to identify the versions for upgrades. This should never change going forward.
     private static final int METADATA_DATABASE_VERSION_WITH_CLIENTID = 6;
