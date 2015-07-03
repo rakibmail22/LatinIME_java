@@ -7,9 +7,310 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b489c78c-8bb4-484f-85e6-0a104cc5e320" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/android/inputmethod/dictionarypack/MetadataDbHelper.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/inputmethod/dictionarypack/MetadataDbHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\accessibility\AccessibilityLongPressTimer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\accessibility\AccessibilityUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\accessibility\KeyCodeDescriptionMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\accessibility\KeyboardAccessibilityDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\accessibility\KeyboardAccessibilityNodeProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\accessibility\MainKeyboardAccessibilityDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\accessibility\MoreKeysKeyboardAccessibilityDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\annotations\ExternallyReferenced.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\annotations\Nonnull.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\annotations\UsedForTesting.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\ActivityManagerCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\AppWorkaroundsHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\AppWorkaroundsUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\BuildCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\CompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\ConnectivityManagerCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\CursorAnchorInfoCompatWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\DownloadManagerCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\EditorInfoCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\InputConnectionCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\InputMethodManagerCompatWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\InputMethodServiceCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\InputMethodSubtypeCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\IntentCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\LocaleSpanCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\LooperCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\NotificationCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\SettingsSecureCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\SuggestionSpanUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\SuggestionsInfoCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\TextInfoCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\TextViewCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\UserDictionaryCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\compat\ViewCompatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\ActionBatch.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\AssetFileAddress.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\BadFormatException.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\ButtonSwitcher.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\CommonPreferences.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\CompletedDownloadInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\DictionaryDownloadProgressBar.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\DictionaryListInterfaceState.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\DictionaryPackConstants.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\DictionaryProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\DictionaryService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\DictionarySettingsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\DictionarySettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\DownloadManagerWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\DownloadOverMeteredDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\DownloadRecord.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\EventHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\LocaleUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\LogProblemReporter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\MD5Calculator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\MetadataDbHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\MetadataHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\MetadataParser.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\MetadataUriGetter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\PrivateLog.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\ProblemReporter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\UpdateHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\WordListMetadata.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\dictionarypack\WordListPreference.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\event\Combiner.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\event\CombinerChain.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\event\DeadKeyCombiner.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\event\Event.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\event\EventDecoder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\event\HardwareEventDecoder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\event\HardwareKeyboardEventDecoder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\event\InputTransaction.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\event\MyanmarReordering.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\Key.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\KeyDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\Keyboard.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\KeyboardActionListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\KeyboardId.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\KeyboardLayoutSet.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\KeyboardSwitcher.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\KeyboardTheme.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\KeyboardView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\MainKeyboardView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\MoreKeysDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\MoreKeysKeyboard.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\MoreKeysKeyboardView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\MoreKeysPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\PointerTracker.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\ProximityInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\TextDecorator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\TextDecoratorUi.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\TextDecoratorUiOperator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\emoji\DynamicGridKeyboard.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\emoji\EmojiCategory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\emoji\EmojiCategoryPageIndicatorView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\emoji\EmojiLayoutParams.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\emoji\EmojiPageKeyboardView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\emoji\EmojiPalettesAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\emoji\EmojiPalettesView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\AbstractDrawingPreview.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\AlphabetShiftState.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\BatchInputArbiter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\BogusMoveEventDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\CodesArrayParser.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\DrawingHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\DrawingPreviewPlacerView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\GestureEnabler.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\GestureFloatingTextDrawingPreview.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\GestureStrokeDrawingParams.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\GestureStrokeDrawingPoints.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\GestureStrokeRecognitionParams.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\GestureStrokeRecognitionPoints.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\GestureTrailDrawingParams.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\GestureTrailDrawingPoints.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\GestureTrailsDrawingPreview.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\HermiteInterpolator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyDrawParams.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyPreviewChoreographer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyPreviewDrawParams.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyPreviewView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeySpecParser.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyStyle.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyStylesSet.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyVisualAttributes.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyboardBuilder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyboardCodesSet.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyboardIconsSet.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyboardParams.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyboardRow.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyboardState.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyboardTextsSet.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeyboardTextsTable.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\KeysCache.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\LanguageOnSpacebarHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\MatrixUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\ModifierKeyState.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\MoreKeySpec.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\NonDistinctMultitouchHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\PointerTrackerQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\RoundedLine.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\ShiftKeyState.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\SlidingKeyInputDrawingPreview.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\SmoothingUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\TimerHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\TouchPositionCorrection.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\keyboard\internal\TypingTimeRecorder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\AssetFileAddress.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\AudioAndHapticFeedbackManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\BackupAgent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\BinaryDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\BinaryDictionaryFileDumper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\BinaryDictionaryGetter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\Constants.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\ContactsBinaryDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\DicTraverseSession.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\Dictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\DictionaryCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\DictionaryDumpBroadcastReceiver.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\DictionaryFacilitator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\DictionaryFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\DictionaryPackInstallBroadcastReceiver.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\ExpandableBinaryDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\ImportantNoticeDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\InputAttributes.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\InputPointers.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\InputView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\LastComposedWord.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\LatinIME.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\PrevWordsInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\PunctuationSuggestions.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\ReadOnlyBinaryDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\RichInputConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\RichInputMethodManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\SpecialKeyDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\SubtypeSwitcher.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\Suggest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\SuggestedWords.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\SuggestionSpanPickedNotificationReceiver.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\SystemBroadcastReceiver.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\UserBinaryDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\WordComposer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\WordListInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\about\AboutPreferences.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\debug\ExternalDictionaryGetterForDebug.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\define\DebugFlags.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\define\JniLibName.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\define\ProductionFlags.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\inputlogic\InputLogic.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\inputlogic\InputLogicHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\inputlogic\SpaceState.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\makedict\DictionaryHeader.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\makedict\FormatSpec.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\makedict\ProbabilityInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\makedict\UnsupportedFormatException.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\makedict\WeightedString.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\makedict\WordProperty.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\personalization\AccountUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\personalization\ContextualDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\personalization\ContextualDictionaryUpdater.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\personalization\DecayingExpandableBinaryDictionaryBase.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\personalization\DictionaryDecayBroadcastReciever.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\personalization\PersonalizationDataChunk.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\personalization\PersonalizationDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\personalization\PersonalizationDictionaryUpdater.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\personalization\PersonalizationHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\personalization\UserHistoryDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\AdditionalFeaturesSettingUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\AdvancedSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\AppearanceSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\CorrectionSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\CustomInputStyleSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\DebugSettings.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\DebugSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\GestureSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\MultiLingualSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\NativeSuggestOptions.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\PreferencesSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\RadioButtonPreference.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\SeekBarDialogPreference.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\Settings.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\SettingsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\SettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\SettingsValues.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\SettingsValuesForSuggestion.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\SpacingAndPunctuations.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\SubScreenFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\ThemeSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\settings\TwoStatePreferenceHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\setup\LauncherIconVisibilityManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\setup\SetupActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\setup\SetupStartIndicatorView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\setup\SetupStepIndicatorView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\setup\SetupWizardActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\spellcheck\AndroidSpellCheckerService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\spellcheck\AndroidSpellCheckerSession.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\spellcheck\AndroidSpellCheckerSessionFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\spellcheck\AndroidWordLevelSpellCheckerSession.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\spellcheck\SentenceLevelAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\spellcheck\SpellCheckerSettingsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\spellcheck\SpellCheckerSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\suggestions\MoreSuggestions.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\suggestions\MoreSuggestionsView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\suggestions\SuggestionStripLayoutHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\suggestions\SuggestionStripView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\suggestions\SuggestionStripViewAccessor.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\userdictionary\UserDictionaryAddWordContents.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\userdictionary\UserDictionaryAddWordFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\userdictionary\UserDictionaryList.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\userdictionary\UserDictionaryLocalePicker.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\userdictionary\UserDictionarySettings.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\userdictionary\UserDictionarySettingsUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\AdditionalSubtypeUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\ApplicationUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\AsyncResultHolder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\AutoCorrectionUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\BinaryDictionaryUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\CapsModeUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\CollectionUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\CombinedFormatUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\CompletionInfoUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\CoordinateUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\CursorAnchorInfoUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\DebugLogUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\DialogUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\DictionaryInfoUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\DistracterFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\DistracterFilterCheckingExactMatchesAndSuggestions.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\DistracterFilterCheckingIsInDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\ExecutorUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\FeedbackUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\FileTransforms.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\FileUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\FragmentUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\ImportantNoticeUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\InputTypeUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\IntentUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\JniUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\JsonUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\LanguageModelParam.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\LeakGuardHandlerWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\LocaleUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\MetadataFileUriGetter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\PrevWordsInfoUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\RecapitalizeStatus.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\ResizableIntArray.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\ResourceUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\RunInLocale.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\ScriptUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\SpacebarLanguageUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\SpannableStringUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\StatsUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\StringUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\SubtypeLocaleUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\SuggestionResults.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\TargetPackageInfoGetterTask.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\TextRange.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\TypefaceUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\UncachedInputMethodManagerUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\ViewLayoutUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethod\latin\utils\XmlParseUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethodcommonBar\InputMethodSettingsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethodcommonBar\InputMethodSettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethodcommonBar\InputMethodSettingsImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\rakib\AndroidStudioProjects\LatinIME\java\app\src\main\java\com\android\inputmethodcommonBar\InputMethodSettingsInterface.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,18 +347,7 @@
     <favorites_list name="java" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MetadataDbHelper.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/inputmethod/dictionarypack/MetadataDbHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3112128">
-              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1599,11 +1889,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1846,12 +2158,18 @@
       <option name="project" value="LOCAL" />
       <updated>1435456197205</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="branch test">
+      <created>1435906355985</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1435906355985</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20918368" sideWeight="0.48487142" order="7" side_tool="false" content_ui="tabs" />
@@ -1866,7 +2184,7 @@
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1896,7 +2214,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="branch test" />
+    <option name="LAST_COMMIT_MESSAGE" value="branch test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1984,15 +2303,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="464" column="44" selection-start-line="464" selection-start-column="44" selection-end-line="464" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#25413#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#6714#6728#0" expanded="false" />
-            <element signature="e#7706#7720#0" expanded="false" />
-            <element signature="e#7835#7849#0" expanded="false" />
-            <element signature="e#8795#8809#0" expanded="false" />
-            <element signature="e#9241#9255#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2066,15 +2377,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="464" column="44" selection-start-line="464" selection-start-column="44" selection-end-line="464" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#25413#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#6714#6728#0" expanded="false" />
-            <element signature="e#7706#7720#0" expanded="false" />
-            <element signature="e#7835#7849#0" expanded="false" />
-            <element signature="e#8795#8809#0" expanded="false" />
-            <element signature="e#9241#9255#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2225,15 +2528,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="370" column="20" selection-start-line="370" selection-start-column="20" selection-end-line="370" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#25413#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#6714#6728#0" expanded="false" />
-            <element signature="e#7706#7720#0" expanded="false" />
-            <element signature="e#7835#7849#0" expanded="false" />
-            <element signature="e#8795#8809#0" expanded="false" />
-            <element signature="e#9241#9255#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2299,9 +2594,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#5669#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
