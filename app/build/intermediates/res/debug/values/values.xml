@@ -698,7 +698,7 @@
     <string name="app_name">Dictionary Provider</string>
     <!-- From: file:/C:/Users/rakib/AndroidStudioProjects/LatinIME/java/app/src/main/res/values/dictionary-pack.xml -->
     <eat-comment/>
-    <string name="authority" translatable="false">com.android.inputmethod.dictionarypack.aosp</string>
+    <string name="authority" translatable="false">com.probaho.softinput.dictionarypack.aosp</string>
     <!-- From: file:/C:/Users/rakib/AndroidStudioProjects/LatinIME/java/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="auto_cap">Auto-capitalization</string>
@@ -745,9 +745,9 @@
     <string name="dictionary_installed">Installed</string>
     <!-- From: file:/C:/Users/rakib/AndroidStudioProjects/LatinIME/java/app/src/main/res/values/dictionary-pack.xml -->
     <eat-comment/>
-    <string name="dictionary_pack_client_id" translatable="false">com.android.inputmethod.latin</string>
+    <string name="dictionary_pack_client_id" translatable="false">com.probaho.softinput.bangla</string>
     <string name="dictionary_pack_metadata_uri" translatable="false"/>
-    <string name="dictionary_pack_settings_activity" translatable="false">com.android.inputmethod.dictionarypack.DictionarySettingsActivity</string>
+    <string name="dictionary_pack_settings_activity" translatable="false">com.probaho.softinput.dictionarypack.DictionarySettingsActivity</string>
     <!-- From: file:/C:/Users/rakib/AndroidStudioProjects/LatinIME/java/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="dictionary_provider_name">Dictionary Provider</string>

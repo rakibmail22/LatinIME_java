@@ -38,7 +38,7 @@ import java.util.Locale;
 
 /**
  * When you call the constructor of this class, you may want to change the current system locale by
- * using {@link com.android.inputmethod.latin.utils.RunInLocale}.
+ * using {@link com.probaho.softinput.bangla.utils.RunInLocale}.
  */
 public final class SettingsValues {
     private static final String TAG = SettingsValues.class.getSimpleName();

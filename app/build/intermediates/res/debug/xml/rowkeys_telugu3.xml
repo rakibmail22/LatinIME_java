@@ -18,7 +18,7 @@
 */
 -->
 
-<merge xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+<merge xmlns:latin="http://schemas.android.com/apk/res/com.probaho.softinput.bangla">
     <!-- U+0C46: "ె" TELUGU VOWEL SIGN E
          U+0C12: "ఒ" TELUGU LETTER O -->
     <Key

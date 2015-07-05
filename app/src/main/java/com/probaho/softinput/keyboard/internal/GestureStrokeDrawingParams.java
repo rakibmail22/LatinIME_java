@@ -18,7 +18,7 @@ package com.probaho.softinput.keyboard.internal;
 
 import android.content.res.TypedArray;
 
-import com.android.inputmethod.latin.R;
+import com.probaho.softinput.bangla.R;
 
 /**
  * This class holds parameters to control how a gesture stroke is sampled and drawn on the screen.

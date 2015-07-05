@@ -329,7 +329,7 @@ public final class EmojiPalettesView extends LinearLayout implements OnTabChange
 
     /**
      * Called from {@link EmojiPageKeyboardView} through
-     * {@link com.android.inputmethod.keyboard.emoji.EmojiPageKeyboardView.OnKeyEventListener}
+     * {@link com.probaho.softinput.keyboard.emoji.EmojiPageKeyboardView.OnKeyEventListener}
      * interface to handle touch events from non-View-based elements such as Emoji buttons.
      */
     @Override
@@ -340,7 +340,7 @@ public final class EmojiPalettesView extends LinearLayout implements OnTabChange
 
     /**
      * Called from {@link EmojiPageKeyboardView} through
-     * {@link com.android.inputmethod.keyboard.emoji.EmojiPageKeyboardView.OnKeyEventListener}
+     * {@link com.probaho.softinput.keyboard.emoji.EmojiPageKeyboardView.OnKeyEventListener}
      * interface to handle touch events from non-View-based elements such as Emoji buttons.
      */
     @Override

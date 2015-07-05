@@ -10,11 +10,11 @@ android {
     buildToolsVersion "23.0.0 rc2"
 
     defaultConfig {
-        applicationId "com.android.inputmethod.latin"
+        applicationId "com.probaho.softinput.bangla"
         minSdkVersion 14
         targetSdkVersion 19
 
-        testApplicationId "com.android.inputmethod.latin.tests"
+        testApplicationId "com.probaho.softinput.bangla.tests"
         testInstrumentationRunner "android.test.InstrumentationTestRunner"
     }
 

@@ -16,7 +16,7 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     coreApp="true"
-    package="com.android.inputmethod.latin" >
+    package="com.probaho.softinput.bangla" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -39,7 +39,7 @@
         android:label="@string/english_ime_name"
         android:supportsRtl="true" >
         <service
-            android:name="com.android.inputmethod.latin.LatinIME"
+            android:name="com.probaho.softinput.bangla.LatinIME"
             android:label="@string/english_ime_name"
             android:permission="android.permission.BIND_INPUT_METHOD" >
             <intent-filter>
@@ -51,7 +51,7 @@
                 android:resource="@xml/method" />
         </service>
         <service
-            android:name="com.android.inputmethod.latin.spellcheck.AndroidSpellCheckerService"
+            android:name="com.probaho.softinput.bangla.spellcheck.AndroidSpellCheckerService"
             android:label="@string/spell_checker_service_name"
             android:permission="android.permission.BIND_TEXT_SERVICE" >
             <intent-filter>
@@ -64,7 +64,7 @@
         </service>
 
         <activity
-            android:name="com.android.inputmethod.latin.setup.SetupActivity"
+            android:name="com.probaho.softinput.bangla.setup.SetupActivity"
             android:icon="@drawable/ic_launcher_keyboard"
             android:label="@string/english_ime_name"
             android:launchMode="singleTask"
@@ -77,7 +77,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.android.inputmethod.latin.setup.SetupWizardActivity"
+            android:name="com.probaho.softinput.bangla.setup.SetupWizardActivity"
             android:clearTaskOnLaunch="true"
             android:label="@string/english_ime_name"
             android:theme="@style/platformActivityTheme" >
@@ -86,7 +86,7 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="com.android.inputmethod.latin.SystemBroadcastReceiver" >
+        <receiver android:name="com.probaho.softinput.bangla.SystemBroadcastReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
@@ -96,7 +96,7 @@
         </receiver>
 
         <activity
-            android:name="com.android.inputmethod.latin.settings.SettingsActivity"
+            android:name="com.probaho.softinput.bangla.settings.SettingsActivity"
             android:label="@string/english_ime_settings"
             android:theme="@style/platformSettingsTheme"
             android:uiOptions="splitActionBarWhenNarrow" >
@@ -105,7 +105,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.android.inputmethod.latin.spellcheck.SpellCheckerSettingsActivity"
+            android:name="com.probaho.softinput.bangla.spellcheck.SpellCheckerSettingsActivity"
             android:label="@string/android_spell_checker_settings"
             android:theme="@style/platformSettingsTheme" >
             <intent-filter>
@@ -114,29 +114,29 @@
         </activity>
 
         <receiver
-            android:name="com.android.inputmethod.latin.SuggestionSpanPickedNotificationReceiver"
+            android:name="com.probaho.softinput.bangla.SuggestionSpanPickedNotificationReceiver"
             android:enabled="true" >
             <intent-filter>
                 <action android:name="android.text.style.SUGGESTION_PICKED" />
             </intent-filter>
         </receiver>
         <receiver
-            android:name="com.android.inputmethod.latin.personalization.DictionaryDecayBroadcastReciever"
+            android:name="com.probaho.softinput.bangla.personalization.DictionaryDecayBroadcastReciever"
             android:exported="false" >
             <intent-filter>
-                <action android:name="com.android.inputmethod.latin.personalization.DICT_DECAY" />
+                <action android:name="com.probaho.softinput.bangla.personalization.DICT_DECAY" />
             </intent-filter>
         </receiver>
         <receiver
-            android:name="com.android.inputmethod.latin.DictionaryPackInstallBroadcastReceiver"
+            android:name="com.probaho.softinput.bangla.DictionaryPackInstallBroadcastReceiver"
             android:exported="false" >
             <intent-filter>
-                <action android:name="com.android.inputmethod.dictionarypack.aosp.UNKNOWN_CLIENT" />
+                <action android:name="com.probaho.softinput.dictionarypack.aosp.UNKNOWN_CLIENT" />
             </intent-filter>
         </receiver>
 
         <provider
-            android:name="com.android.inputmethod.dictionarypack.DictionaryProvider"
+            android:name="com.probaho.softinput.dictionarypack.DictionaryProvider"
             android:authorities="@string/authority"
             android:exported="false"
             android:grantUriPermissions="true"
@@ -145,20 +145,20 @@
         </provider>
 
         <service
-            android:name="com.android.inputmethod.dictionarypack.DictionaryService"
+            android:name="com.probaho.softinput.dictionarypack.DictionaryService"
             android:label="@string/dictionary_service_name" >
         </service>
 
-        <receiver android:name="com.android.inputmethod.dictionarypack.EventHandler" >
+        <receiver android:name="com.probaho.softinput.dictionarypack.EventHandler" >
             <intent-filter>
                 <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
                 <action android:name="android.intent.action.DATE_CHANGED" />
-                <action android:name="com.android.inputmethod.dictionarypack.aosp.UPDATE_NOW" />
+                <action android:name="com.probaho.softinput.dictionarypack.aosp.UPDATE_NOW" />
             </intent-filter>
         </receiver>
 
         <activity
-            android:name="com.android.inputmethod.dictionarypack.DictionarySettingsActivity"
+            android:name="com.probaho.softinput.dictionarypack.DictionarySettingsActivity"
             android:label="@string/dictionary_settings_title"
             android:theme="@style/platformSettingsTheme"
             android:uiOptions="splitActionBarWhenNarrow" >
@@ -167,7 +167,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.android.inputmethod.dictionarypack.DownloadOverMeteredDialog"
+            android:name="com.probaho.softinput.dictionarypack.DownloadOverMeteredDialog"
             android:label="@string/dictionary_install_over_metered_network_prompt"
             android:theme="@style/platformActivityTheme" >
             <intent-filter>

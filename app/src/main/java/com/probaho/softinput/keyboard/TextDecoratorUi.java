@@ -37,7 +37,7 @@ import android.view.ViewParent;
 import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
 
-import com.android.inputmethod.latin.R;
+import com.probaho.softinput.bangla.R;
 
 /**
  * Used as the UI component of {@link TextDecorator}.
